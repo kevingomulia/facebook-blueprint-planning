@@ -934,11 +934,7 @@ You can create campaigns that range from 1-90 days and can schedule them up to s
 
 Choose between standard, sequenced and scheduled delivery
 
-| | Best When | How it works | Limitation |
-|---|---|---|---|---|
-| Standard | Your creative message doesn't need to be delivered in any particular order or on any particular date.| The system will deliver a single or multiple-ad campaign based on the best-performing ad.| You don't control the order in which people see your ads or the date the ads are delivered.|
-| Sequenced | You want to deliver multiple ads in a certain order to tell a coherent story (for example, no one will see ad 2 of your series unless they see ad 1 first).| You choose the order in which you want people to experience your ads.	| Delivery is based on login behavior so we can't guarantee that people who see the first ad in your series will see the ones that follow. |
-| Scheduled | You want to deliver a message that relates to the day it's delivered (like the final day to shop a sale or the series premier of a new TV show).	| You choose the date when you want people to experience your ads. | 	People might not see the complete series of ads. |
+![](standard.png)
 
 Set a frequency cap (max no. of times your ad will be delivered to someone within a given period of time). Generally, large brand advertisers focus on reaching more people (1 - 2 ads per week). Newer brands who are running shorter campaigns may opt to increase their frequency cap to show more ads to a smaller group of people and maximize awareness.
 
@@ -1166,4 +1162,4 @@ Remember, here are the roles and privileges:
 #### 4.04 - Recommend campaign improvements for future campaigns and studies
 
 END
---- 
+---
